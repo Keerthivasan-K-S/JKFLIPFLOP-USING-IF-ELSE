@@ -68,5 +68,3 @@ endmodule
 The simulation was executed successfully
 
 
-**RESULTS**
-X`X`
